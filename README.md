@@ -2,6 +2,17 @@
 
 Draw flow charts in plain text
 
+Something like this:
+```
++-------------+
+| Hello world |------------+
++-------------+            |
+                           v
+                    +----------------+
+                    | Hello here too |
+                    +----------------+
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
